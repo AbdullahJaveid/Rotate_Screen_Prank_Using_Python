@@ -27,7 +27,8 @@ You can install the required library using pip:
 
 ```bash
 pip install pyautogui
-=======
+```
+
 # Rotate Screen Prank Using Python
 This is a simple Python script that rotates your primary display screen in steps (90°, 180°, 270°) and then returns it to normal (0°). It can be used as a harmless prank on friends or colleagues.
 
